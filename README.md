@@ -34,3 +34,6 @@ There is a [node package](https://www.npmjs.com/package/react-instagram-embed) f
 ## Website Layout
 
 
+## Notes 23/06/21
+Created React App
+Successfully created a 'Hello, Ann' page on App.js, but when tried to move that to HomePage, and to link to HomePage from App it didn't work. Currently debugging that!
